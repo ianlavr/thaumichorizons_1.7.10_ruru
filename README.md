@@ -4,3 +4,5 @@
 ссылка на оригинальный мод: https://legacy.curseforge.com/minecraft/mc-mods/thaumic-horizons
 
 Так как мне было слишком лень разбиратся в GNU LESSER GENERAL PUBLIC LICENSE вам придется добавить файл с переводом самому используя например 7zip.
+
+БОЛЕЕ ПОЛНЫЙ ПЕРЕВОД УЖЕ ПРИСУТВУЕТ В ВЕРСИ МОДА ИЗ GTNH
